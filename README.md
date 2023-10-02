@@ -1,3 +1,3 @@
 # ReactMeals
-## Reacct App for Delicious Food 
+## React App for Delicious Food 
 Delicious Food, Delivered To You
